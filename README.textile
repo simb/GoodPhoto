@@ -1,0 +1,5 @@
+h2.  GoodPhoto
+
+This is a demo application utilizing the CF 9 ORM functionality in conjunction with offline syncronization of air.
+
+The demo is in process.  Please feel free to fork and contribute.
